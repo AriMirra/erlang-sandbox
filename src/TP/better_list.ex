@@ -29,5 +29,4 @@ defmodule BetterList do
 
     end
   end
-
 end
