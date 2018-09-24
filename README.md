@@ -1,3 +1,1 @@
-# erlang-sandbox
-Erlang sandbox
-Wewey es alto gil
+# Wewey es alto gil
