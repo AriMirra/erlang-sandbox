@@ -2,7 +2,7 @@ defmodule Length do
   @moduledoc false
 
   def length(l) do
-    length(l,0)
+    length l, 0
   end
 
   defp length([_ | t], acc) do
